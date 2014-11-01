@@ -1,0 +1,28 @@
+{
+  "name": "jquery-countdown",
+  "version": "0.1.0",
+  "homepage": "https://github.com/fembri/jquery-countdown",
+  "authors": [
+    "Nurhidayat Fembrianto <fembrii@gmail.com>"
+  ],
+  "description": "jquery count down bower",
+  "main": "jquery.countdown.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "countdown"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
